@@ -8,7 +8,7 @@ export default function Home() {
           <div className="flex-1" />
 
           <div className="flex flex-col items-center">
-            <h1>Hey there, I'm</h1>
+            <h1>Hey there, I&apos;m</h1>
             <h1 className="bg-gradient-to-r from-primary to-accent bg-clip-text text-6xl text-transparent">
               Nathan Sanchez
             </h1>
@@ -31,8 +31,8 @@ export default function Home() {
             <p className="text-justify">
               <span className="text-2xl text-accent-green">Why?&nbsp;</span>
               Its just one word. The simplest yet most complex question there
-              is. Yet I don’t think people ask it nearly enough. Yet I don’t
-              think people ask it nearly enough.
+              is. Yet I don&apos;t think people ask it nearly enough. Yet I
+              don’t think people ask it nearly enough.
               <br />
               <br />
               That’s why I love learning. Why do certain frequencies work so
@@ -62,9 +62,9 @@ export default function Home() {
                 <div className="absolute left-0 top-0 h-full w-full bg-[#844A9F] opacity-70 mix-blend-multiply" />
               </div>
               <div className="flex flex-col items-center">
-                <p className="text-lg">I'm very serious.</p>
+                <p className="text-lg">I&apos;m very serious.</p>
                 <p className="text-md text-accent-green-600">
-                  (maybe it's a bit hard to tell)
+                  (maybe it&apos;s a bit hard to tell)
                 </p>
               </div>
             </div>
