@@ -139,11 +139,11 @@ export default function Home() {
                   abstraction from modularity as the primary goal. The rendering
                   is done using <Bold>Vulkan</Bold> and the engine is designed
                   to eventually be cross platform. Spent a lot of time trying to
-                  design the most intuitive way to interact with each module's
-                  api. With this <Bold>intuitive mindset</Bold>, it should
-                  ideally take less time to develop using the engine. This
-                  project is still under development along with a personal game
-                  called Raven.
+                  design the most intuitive way to interact with each
+                  module&apos;s api. With this <Bold>intuitive mindset</Bold>,
+                  it should ideally take less time to develop using the engine.
+                  This project is still under development along with a personal
+                  game called Raven.
                 </p>
               </div>
               <div className="flex h-full w-full items-center justify-center">
